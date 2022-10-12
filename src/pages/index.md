@@ -1,50 +1,48 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ الل وَبَرَكَاتُهُ
 image: /img/home-jumbotron.jpg
-heading: Amar Mukhtar Mohammed
-subheading: Support sustainable farming while enjoying a cup
+heading: Our  Philosophy
+subheading: The Manchester Metropolitan University Islamic Society
 mainpitch:
-  title: Why Kaldi
+  title: Who is MMU ISoc?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    We are a vibrant and diverse student-run organization that aims to
+    serve primarily all Muslim and non-Muslim students. The society primarily
+    aims to serve to the spiritual and academic needs of the Muslim students on
+    campus and to promote the religion of Islam too non-Muslims. We are dedicated
+    to catering the needs of Muslim students in many ways from providing a clean
+    and functional prayer facility to hosting educational.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  We welcome everyone, whether you are a Muslim, interested in Islam
+  or simply finding a friendly face. You are more than welcome to join us and be
+  part of something wonderful! Below is a list of what matters to us at MMU
+  ISoc.
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        To provide excellence in Islamic education in order to balance the
+        physical and spiritual development of MMU students. Moreover, Islamic
+        education deals with universal education but also education for
+        practical life and moral values.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Promoting student cohesion. This is is the process of building shared
+        ideals while simultaneously eliminating gaps. The Prophet P.B.U.H
+        treated all people well, including non- Muslims. Allah enjoined
+        fairness, kindness, good treatment and rendering back trust for Muslims
+        and non-Muslims alike
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Addressing the needs of MMU students. Islam extends beyond worship and
+        preaching, it's also about living, with justice and fairness, to make
+        the world better tomorrow than it is today.
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        To be a vehicle for beneficial change for all MMU students and the
+        community around us. Our concern is for all human to to become the best
+        possible version of themselves :)
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
