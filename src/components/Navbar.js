@@ -57,24 +57,6 @@ const Navbar = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <span className="icon">
-                <div className="column is-4 social">
-                <a title="facebook" href="https://facebook.com">
-                  <img
-                    src={facebook}
-                    alt="Facebook"
-                    style={{ width: "1em", height: "1em" }}
-                  />
-                </a>
-                <a title="instagram" href="https://instagram.com">
-                  <img
-                    src={instagram}
-                    alt="Instagram"
-                    style={{ width: "1em", height: "1em" }}
-                  />
-                </a>
-              </div>
-              </span>
             </a>
           </li>
         </ul>
