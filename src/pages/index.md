@@ -19,25 +19,25 @@ description: We welcome everyone, whether you are a Muslim, interested in Islam
   ISoc.
 intro:
   blurbs:
-    - image: /img/quran-image.jpg
+    - image: /img/untitled-1500-×-1500-px-1500-×-1200-px-1500-×-1100-px-1700-×-1100-px-500-×-500-px-.png
       text: >
         To provide excellence in Islamic education in order to balance the
         physical and spiritual development of MMU students. Moreover, Islamic
         education deals with universal education but also education for
         practical life and moral values.
-    - image: /img/coffee-gear.png
+    - image: /img/hands-image.png
       text: >
         Promoting student cohesion. This is is the process of building shared
         ideals while simultaneously eliminating gaps. The Prophet P.B.U.H
         treated all people well, including non- Muslims. Allah enjoined
         fairness, kindness, good treatment and rendering back trust for Muslims
         and non-Muslims alike
-    - image: /img/tutorials.png
+    - image: /img/justice-image.png
       text: >
         Addressing the needs of MMU students. Islam extends beyond worship and
         preaching, it's also about living, with justice and fairness, to make
         the world better tomorrow than it is today.
-    - image: /img/meeting-space.png
+    - image: /img/self-improvement-image.png
       text: >
         To be a vehicle for beneficial change for all MMU students and the
         community around us. Our concern is for all human to to become the best
